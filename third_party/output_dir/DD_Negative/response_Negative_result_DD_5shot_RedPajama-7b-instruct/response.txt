@@ -1,0 +1,1000 @@
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure I understand.  
+Speaker: I'm not sure. I think it's about a two hour drive. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm fine. I just had a bad dream. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't hear you. Output: Speaker: I'm sorry, I can't hear you. 
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry I'm so late. I had a really bad day. Label: Positive
+Speaker: I'm looking for a book on the history of the world.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am sorry, we are fully booked. Output: I am looking for a hotel. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good evening, madam. Can I help you?  Output: Speaker: Good evening, sir. Can I help you?  
+Speaker: I need to buy some flowers for my wife.  Label: Speaker: I need to buy some flowers for my wife.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm a student. I'm a student. I'm a student. Output: No, I'm not a student. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm fine. How are you today?  
+Speaker: I ’ m not interested in insurance. 
+Speaker: I want to know if you have a job.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not good at writing. Label: Speaker: I'm not good at writing. 
+Speaker: I'm looking for a place to stay in the centre of town. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi, Dan. What's new?  Label: Speaker: Hi, Dan. What's new?  
+Speaker: I have.  
+Speaker: I'd like to speak to the manager.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am sorry, I don't know anything about a Professor Clark.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine, thank you.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Please rephrase your question. 
+Speaker: I'm watching TV. 
+Speaker: I'm sorry, we're all out of rooms.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: No, I haven't seen her yet.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am a seafood lover.  
+Speaker: I don't know. I just want to go somewhere. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the park. Output: Hello, Miao Li, Where are you going? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to have a job interview next week. Could you give me some advice?  Output: Yes, I can. 
+Speaker: I'm not sure. I think it will be around 10 %. 
+Speaker: I'm sorry, our appointment has to be changed.  Output: Speaker: I'm sorry, our appointment has to be changed.  
+Speaker: I would like to open a savings account. Label: Good day! Welcome to Lincoln Bank, how may we assist you? 
+Speaker: I'm looking for a place to stay.  
+Speaker: Hello, Sir. How can we help you today? Output: Speaker: Hello, Sir. How can we help you today? 
+Speaker: I am sorry. We are all out of blue.  
+Speaker: I'm sorry, I don't understand. Would you like to come in and speak to the manager?  
+Speaker: I'm sorry, I don't know who you are.  
+Speaker: I ’ m sorry to bother you at home, but I ’ ve got a bit of a problem. Output: Positive
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine. I was just thinking about my exams. 
+Speaker: I'm not sure. I'll have to see how the job goes. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a hotel.  
+Speaker: I'm sorry I'm late.  Output: Speaker: I'm sorry I'm late.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, I am calling about the job advertisement in the newspaper.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. 
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I can't do that.  
+Speaker: I'm sorry I'm late. I had to stop at the store on the way. Label: Speaker: I'm sorry I'm late. 
+Speaker: I'm sorry, I can't hear you. Are you still there?  
+Speaker: I need help with the office party.  Output: No. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Please repeat it. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't hear you. 
+Speaker: Hi, Parker. How ’ s everything?  Label: Speaker: Hi, Parker. How ’ s everything?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I need to have a talk with you.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I want something sweet after dinner.  Output: I want something sweet after dinner. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a string of pearls for my wife.  Label: No 
+Speaker: I'm looking for a place to stay.  
+Speaker: I am a student. I am a student. I am a student. I am a student. Output: What is the person studying? 
+Speaker: I am sorry, I do not understand. Please try again.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: I wonder if I can see your mother, little boy. Is she engaged?  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I need to know when you're going to be here. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm really in a flap about the interview.  Output: Speaker: I'm really in a flap about the interview.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the park. Output: Yes. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, I am looking for a flight to New York.  
+Speaker: Yes, it is.  
+Speaker: I ’ m sorry, I don't know anything about that. 
+Speaker: I'd like a large coffee, please.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I'll wait until the summer. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I need help using the washer and dryer.  Output: Speaker: I need help using the washer and dryer.  
+Speaker: I have a question.  
+Speaker: I am absolutely famished.  Output: Speaker: I am absolutely famished.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have a stomachache.  Output: No 
+Speaker: I'm not sure. I guess I'm a little shy. 
+Speaker: I would like to take this opportunity to welcome Monica to our company and introduce her to her department and colleagues. For all of you, we hired Monica because she is a very professional accountant and we are very happy to have her in the finance department. She has lots of working experiences as an accountant and I am sure everybody in the department can benefit from this.  
+Speaker: I was in a leadership position when I was a college student.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I think Yoga might be suitable for you.  Output: Speaker: I think Yoga might be suitable for you.  
+Speaker: I am a very good secretary. I have been working as a secretary for the past 5 years. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I just sleep in late. 
+Speaker: I'm sorry, I don't understand. Please try again.  
+Speaker: I'm going abroad by plane for the first time tomorrow. Can you give me some advice? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I would like to check in two pieces of luggage. Output: Speaker: I would like to check in one piece of luggage. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't. I have to go to the dentist. 
+Speaker: I don't know. I 'll have to look it up.  
+Speaker: I'm not doing well in the class. 
+Speaker: I am looking for a place to stay in the centre of town.  
+Speaker: I'm sorry, I can't. I have to work on my history paper. 
+Speaker: I ’ m sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't do that. I have to go to the dentist. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm very sorry, sir. My car has broken down. Output: Speaker: I'm very sorry, sir. My car has broken down. 
+Speaker: I need to have my shoes repaired.  Output: Hi. I need to have my shoes repaired. 
+Speaker: Hello, I am a teacher and I am here to help you with your studies.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm interested in Chinese antiques.  
+Speaker: I have to check out now. My name is Ruth Carson. Can I have my bill, please?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am sorry, I do not understand. Please try again.  
+Speaker: I'm looking for a book on the history of the world.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, but I really don't see the value in doing this entire project over from scratch. It would take a lot of work. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: No, it does not.  
+Speaker: I'm not sure. I'm not sure if I want to get married. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know anything about that. Output: Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't know you.  
+Speaker: I'm sorry, I don't know who that is.  Output: Speaker: I'm sorry, I don't know who that is.  
+Speaker: Good morning, sir. May I see your passport?  
+Speaker: I bought a China dress in your shop this morning.  Label: Speaker: I bought a China dress in your shop this morning.  
+Speaker: I'm not sure. I think it will be around 10 %. 
+Speaker: I'm going to go shopping for groceries in a little bit.  Label: Speaker: I'm going to go shopping for groceries in a little bit.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I have a lot of time on my hands.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good morning, sir. May I help you?  
+Speaker: I am looking for a place to stay in the centre of town. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, but I don't think this damage is our fault.  Output: Speaker: I'm sorry, but I don't think this damage is your fault.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know who you are.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I didn ’ t receive an unemployment check this week and need to know why.  Label: Speaker: I didn ’ t receive an unemployment check this week and need to know why.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'd like a large iced tea and a large cheeseburger please.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am sorry, I do not understand what you are saying. Please try to explain it in a way that I can understand. 
+Speaker: I went to the mall. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I need to withdraw some money from my account. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I had a meeting at school.  Output: I'm sorry, I had a meeting at work. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  Is there anything else I can help you with today?  
+Speaker: I'm not sure. I think I can read it.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, we're not allowed to give out personal information.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't know you.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have a book for you.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't do that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I 'll ask my mom. 
+Speaker: Hello, this is room 1205. Our message lamp is flashing. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I have to go to the bathroom.  
+Speaker: I'm sorry, I can't hear you. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine, thanks. How are you?  
+Speaker: I'm sorry, I don't know anything about that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am reading about the weather. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'd like to book a ticket to New York.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, this is Liu Juan speaking. Is that Mr. Brown?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  Output: No, I don't want to go to the interview. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m sorry, I have to go. I have a meeting at work.  
+Speaker: I'm sorry to hear that.  
+Speaker: I want to know the time of the last train.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, thank you for calling Bradford and Sons. This is Tracy speaking, How may I help you? Label: Speaker: Hello, thank you for calling Bradford and Sons. This is Tracy speaking, How may I help you? 
+Speaker: He's fine. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, we are out of orange juice. Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have just received your note which informs me that you have offered the accountant position to another candidate. May I ask why I was defeated?  Output: Speaker: I have just received your note which informs me that you have offered the accountant position to another candidate. May I ask why I was defeated?  
+Speaker: I'm sorry, I don't understand. Would you like to come in?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I want to change my name to John. 
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know anything about that.  Output: Speaker: I'm sorry, I don't know anything about that.  
+Speaker: I need to get my high speed internet installed.  Output: Speaker: I need to get my high speed internet installed.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, we're booked solid for the next two weeks.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't. I have to work. Label: Speaker: I have to work. 
+Speaker: I have some great news! I was able to switch to the night shift!  Output: I have some great news! I was able to switch to the night shift!
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m going to visit my family in Italy. 
+Speaker: I ’ m sorry, I don't know anything about that. 
+Speaker: I'm sorry, he's not in right now. Can I take a message?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am looking for a place to stay in the centre of town.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: No, you have to do it now. Output: Yes, I can do it now. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: No, go ahead. Output: Speaker: Sure. 
+Speaker: I'm not sure. I think I will.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good morning. Craftsman Company. Can I help you?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I do. I like to cook for my friends.  
+Speaker: I'm searching for an old music box.  Label: No, I'm not. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not feeling well. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know.  
+Speaker: I like football. 
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: Hello, 332440.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good morning, sir. Can I help you?  Output: Speaker: Good morning. Can I help you? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, is Sue there?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I think it's a great idea.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am a student. I am a student. I am a student. Label: I am a student. I am a student. I am a student. Speaker: I'm doing well. How are you?  
+Speaker: I think it's very good. 
+Speaker: I would like to book a ticket from New York to London. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I just need to eat better. 
+Speaker: I am sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you like to come in and speak to someone about it?  
+Speaker: I'm not feeling well. I think I'm coming down with a cold. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't tomorrow. I have to work late. 
+Speaker: I'm sorry, we are fully booked.  
+Speaker: I ’ m going to be moving out soon.  Output: Speaker: I ’ m going to be moving out soon.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I use an anti-virus program to protect my computer.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, I am looking for a new job.  
+Speaker: I'm looking for a job. Label: What can I do for you, young man?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have something important to say.  Output: Speaker: I have something important to say.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure I like the idea of a cafeteria.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I think it's going to be a great year for us. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi, Bob, this is John Lin.  Label: Hi, Bob, this is Mary. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, we are fully booked. Output: I need a room for the next 2 nights. 
+Speaker: I'd like a large pepperoni pizza with mushrooms and extra cheese.  
+Speaker: Hello, Personal Banking. How may I help you? 
+Speaker: I was surprised to see how few people you have on-site. You provide a wide range of goods and services but have a very small workforce.  Label: Speaker: I was surprised to see how few people you have on-site. You provide a wide range of goods and services but have a very small workforce. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I do not exercise very much. 
+Speaker: I'm sorry, I don't know you.  
+Speaker: I am looking for the office of the marketing manager.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I went to the movies with my friends. Label: What did you do last night? 
+Speaker: I'm fine. I just got back from the doctor.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a new job. Label: What can I do for you? 
+Speaker: I have a problem. I have to go to the hospital. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I'm not sure. 
+Speaker: I have a terrible toothache.  Output: I have a terrible headache. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I need to borrow your phone. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'd like to order breakfast, please.  
+Speaker: I'm fine. How are you?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m taking BA fright 123 to London. Can you tell me where the reporting desk is, please?  Output: Speaker: I ’ m taking BA fright 123 to London. Can you tell me where the reporting desk is, please?  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello! This is Ruby speaking from G. O. T. International Travel Agency. What can I do for you? 
+Speaker: I do want to meet with you and take a look at your catalogue. We ’ re redecorating and are going to add some things.  Output: I do want to meet with you and take a look at your catalogue. We ’ re redecorating and are going to add some things. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m sorry, but we ’re not accepting any more applications at the moment.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay in the centre of town. 
+Speaker: Hello.  
+Speaker: I think it's nice. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I hate doing the damn laundry.  Output: Speaker: I hate doing the laundry.  
+Speaker: I'm sorry, I don't know anything about that. Output: I want to buy three tickets. What's the entrance fee? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good morning. Are you Mr. Liu?  
+Speaker: I don't know. I just don't. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I think I 'd rather stay home. 
+Speaker: I'm sorry, we're all booked up.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't have a wife. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm looking for a new job.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to bother you. This is a complimentary fruit tray. Your food will be ready soon. Label: Speaker: I'm sorry to bother you. This is a complimentary fruit tray. Your food will be ready soon. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine. I just had a bad night. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m here to catch flight 513 to New York.  Output: Hi. I ’ m here to catch flight 513 to New York. 
+Speaker: I graduated from the University of California, Los Angeles. 
+Speaker: I'm sorry to hear that. 
+Speaker: I have not. I'm not much of a shopper. 
+Speaker: I'm not feeling well. I think I 'll go home and rest.  
+Speaker: I'm not sure. I think it's the same as mine. 
+Speaker: I have learnt how to ride a bicycle. I plan to go to the Water Park by bike this weekend.  Label: I have learnt how to ride a bicycle. I plan to go to the Water Park by bus this weekend. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, Mrs.White! I'm Anne.  Output: Speaker: Hello, Mrs.White! I'm Anne.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm a little nervous.  Output: Speaker: I'm a little nervous.  
+Speaker: Good morning, Sir. Where are you going?  Output: Speaker: Good morning. 
+Speaker: Good evening, ma'am. Table for one?  Output: Speaker: Good evening, sir. Table for one?  
+Speaker: I have a headache.  Output: I have a headache. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm hungry.  Output: Speaker: I'm hungry.  
+Speaker: I do. Output: Speaker: I have the remote control. 
+Speaker: I am calling to find out why I didn ’ t receive an unemployment check this week.  Output: Speaker: I am calling to find out why I didn ’ t receive an unemployment check this week. 
+Speaker: Yes, I am. How can I help you?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, Oriental Hotel.  
+Speaker: I'm not sure. I think I should go to bed.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a new job.  
+Speaker: I am looking for a job. Label: Hello, Madam. What can we do for you today? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, sir, what can I do for you today? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't go with you. I have to work.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I ’ m sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine. I'm just waiting for my train. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I will take it. How much?  Output: Speaker: I will take it. How much is it? 
+Speaker: I'm sorry, we're fully booked. 
+Speaker: I am sorry, I do not understand. Please try again.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'd like to book a taxi to the airport.  
+Speaker: I'm sorry, I don't know you.  Output: Speaker: Hi, I'm John. 
+Speaker: I'm ready to order. Output: Speaker: I'm ready to order. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I usually have waffles. 
+Speaker: I am so happy to know that the promotion campaign for our new product is very successful. We just made a record sale this season. 
+Speaker: I need to copy something right now.  Output: No 
+Speaker: Hi, Ellen. That outfit looks terrific!  Label: Speaker: Hi, Ellen. That outfit looks terrific! 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I see. What are you going to do now?  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I might have a fever.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, we're fully booked. Output: Good morning. I would like to reserve a berth. 
+Speaker: I'm not sure. I think I will.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I work with a lot of people.  
+Speaker: No, I didn't. I don't think I will. 
+Speaker: I am sorry to have kept all of you waiting. I was delayed by something urgent.  Output: Speaker: I am sorry to have kept all of you waiting. I was delayed by something urgent.  
+Speaker: I'm sorry, I don't understand.  Is there something I can help you with?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, I am looking for a place to stay in the centre of town.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I think they should be. 
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I'd like to be a doctor.  
+Speaker: I wish the politicians would quit digging up dirt about each other's past.  Label: Positive
+Speaker: Hello, Miss Wu, This is Dan Robson calling from OTC limited. I'd like to check my last order. When exactly was it sent out? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I want to buy a necklace. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine. I just had a bad night. 
+Speaker: I have to check out today. I'd like my bill ready by 10 this morning.  Label: Speaker: I have to check out today. I'd like my bill ready by 10 this morning. 
+Speaker: I called HP about my computer.  
+Speaker: I'm sorry, I can't do that. I have to work.  
+Speaker: I'm fine. I just had a bad day at work. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, we're all out of rooms.  
+Speaker: I am sorry, I do not understand your question. Please try to be more specific.  
+Speaker: I'm sorry, I don't understand. Please repeat it.  
+Speaker: I'm sorry, there are no vacancies.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Please, repeat it.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi Joe, how are you doing today?  Label: Speaker: Hi Joe, how are you doing today?  
+Speaker: I'm fine. I just got back from the gym. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. 
+Speaker: I'm looking for a new job. Label: What can I do for you, Madam? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I don't think I need to do that. 
+Speaker: I'm sorry, I don't know who you are.  
+Speaker: I'm sorry, we're booked solid. 
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you speak up?  
+Speaker: I am not sure what you mean. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm looking for a place to stay.  
+Speaker: I didn't watch it. I was out with my friends. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I'm just a little bit tired. 
+Speaker: I'm sorry, I have to go. I have a meeting at work.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Please, repeat it.  
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: I ’ m sorry, we ’ re booked. 
+Speaker: Hello, I am looking for a new office supply store.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am really interested in buying this television.  Output: Speaker: I am really interested in buying this television.  
+Speaker: I'm sorry, but you can't check in with a bag that size.  
+Speaker: Hello.Is Bob there, please?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the park.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi, I'm Frank. How are you doing?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm doing great. How are you?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know anything about that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: No. What happened?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I need to stop eating such unhealthy foods.  Output: Speaker: I need to stop eating such unhealthy foods.  
+Speaker: I am a new comer in our office.  Output: Good morning! I am a new comer in our office. 
+Speaker: I'm looking for a job in advertising.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have to go to the hospital.  
+Speaker: I'm not sure. I think I'm going to go to the library instead. 
+Speaker: I can't believe how hot it is.  Output: Speaker: I can't believe how hot it is.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that. I'll look into it. 
+Speaker: It's going to be a sunny day. 
+Speaker: I'm not sure if I can do that. 
+Speaker: I don't know. I'm not interested in sports. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I often recalled the days when Tom and I were madly in love.  Label: Positive
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking forward to summer vacation.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am so glad I caught you at home. I need your help!  Output: Speaker: I need to talk to you about something. 
+Speaker: Hello, is this the ABC company?  Output: Speaker: Hello, is this the ABC company?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: No, he has never missed one.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I'm not sure I want to go. 
+Speaker: I'm sorry, I have to go. I have a meeting at work.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I like Beethoven. 
+Speaker: Hi Paul. How are you, friend.  Output: Positive
+Speaker: I'm from New York.  
+Speaker: I don't have any. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m pretty sure that Jim will turn out to be a good lawyer.  Label: Speaker: I ’ m pretty sure that Jim will turn out to be a bad lawyer.  
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don ’ t know. I ’ m sure he ’ s just busy. 
+Speaker: I'm fine. I just had a bad day at work. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know you.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I saw it in the theater.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm going to the park.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm looking for a new job.  
+Speaker: I'm doing great. How are you?  
+Speaker: I'm not really accustomed to the style of the new boss.  Output: Speaker: I'm not really accustomed to the style of the new boss.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't. I have to work.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I just do. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm looking for a place to stay.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I'm going to go to the library instead. 
+Speaker: I ’ m sorry, we ’ re booked up for the next two weeks. 
+Speaker: I'm looking for a place to stay.  
+Speaker: I do not watch TV.  
+Speaker: Hi. What's your name?  Output: Speaker: Hi. What's your name?  
+Speaker: I saw a man with a red hat. 
+Speaker: I don't know. I think it's a bit too small. 
+Speaker: I'm sorry to hear that. I hope you feel better soon.  
+Speaker: I'm sorry I missed it.  
+Speaker: Hi, Monica, how is everything going?  Label: No impact 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am sorry, I do not understand. Please, repeat it.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi, Mr. Smith. what's new?  Label: Speaker: Hi, Mr. Smith. what's new?  
+Speaker: I'm fine. How are you?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm terribly sorry to have caused you so much trouble.  Label: Speaker: I'm terribly sorry to have caused you so much trouble.  
+Speaker: I'm not sure. I think I 'll go to the library and check it out.  
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: I don't know him. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I think it's a good way to let out anger. 
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi, Mary. I haven't seen you in ages! I heard that you and Daniel are getting married on August 8th, the opening day of the 2008 Olympic Games. Is it true?  
+Speaker: I'm sorry I lied to you.  
+Speaker: I'm sorry, I didn't get that. Would you mind speaking more slowly?  
+Speaker: I'm not feeling well. I think I 'll go home and rest.  
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: Hi, Helen! how is it going?  Label: Speaker: Hi, Helen! how is it going?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good afternoon, Johnson.  Output: Speaker: Good afternoon, Johnson.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I love it. I'm a big fan of the Rolling Stones. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Morning, Peter. Nice suit! A new one?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: I don't know. I think it's just one. 
+Speaker: I don't know. I just work here. 
+Speaker: I'm sorry, I don't understand. Please repeat it.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I love ethnic food.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have a family of four.  
+Speaker: I'm going to the cinema. Label: I'm going to the cinema. 
+Speaker: I didn't go to the concert last weekend.  
+Speaker: I'm sorry to hear that.  
+Speaker: I have never been invited to a Chinese feast.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I hate to go outside.  Output: Speaker: I hate to go outside.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I think she does. 
+Speaker: Good morning.  Output: Speaker: Good morning.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m sorry, I don't know anything about that. 
+Speaker: I hate computer games.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure I can do that. 
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Please, repeat it.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: Hi, Becky, what's up?  Output: Speaker: Hi, Becky, what's up?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the cinema with my friends. 
+Speaker: Hello, this is Susan.  
+Speaker: I don't know. I just want to be happy. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am sorry, I do not understand. Would you like to ask a question?  
+Speaker: I'm sorry, I don't drink beer.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, I am calling about the job advertisement in the newspaper.  
+Speaker: I'm not a blogger. I'm a writer. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, ladies. Mr. Smith's viewing is over. It ended an hour ago. Output: Speaker: I'm sorry, ladies. Mr. Smith's viewing is over. It ended an hour ago. 
+Speaker: I can't bear it. The driver is too bad.  Output: Speaker: I can't bear it. The driver is too good. 
+Speaker: I prefer potatoes to eggplants.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't. Would you like to go to the movies instead?  
+Speaker: I'm going to college to become a doctor.  Output: What are you going to do next year? 
+Speaker: I am not listening to you. 
+Speaker: I've been here for a year.  
+Speaker: I'm sorry, I don't know who you're talking about.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I wonder what he looks like. Oh, I can't wait to see him! His email said he'd be wearing a white hat.oh, there he is.  Label: I wonder what he looks like. Oh, I can't wait to see him! His email said he'd be wearing a white hat.oh, there he is. 
+Speaker: I'm sorry, I don't drink. 
+Speaker: I don't know. 
+Speaker: I'm sorry, but I can't find the book you lent me.  Label: Speaker: I'm sorry, but I can't find the book you lent me.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I'm not sure if I want to go out.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I had a great time. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't hear you. 
+Speaker: I don't know. I think I'm going to go to the library and do some reading.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm dreadfully sorry for you.  Output: Speaker: I'm dreadfully sorry for you.  
+Speaker: I'm going to be a teacher.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I'm just trying to get through the day. 
+Speaker: I'm from the UK.  
+Speaker: I'm not a good mother. 
+Speaker: I find it really hard to express myself in class. I have lots of ideas, but they never seem to come out of my mouth.  Output: Positive
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: I'm sorry, I can't. I have to work. Output: Why do you have to work? 
+Speaker: I ’ m fine. How are you?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine. I just had a bad day at work. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the cinema with my friends.  
+Speaker: I'm sorry to hear that.  
+Speaker: I don't know who he is. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: No, I do not. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I won tickets to tonight's final NBA game. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't have a mobile phone. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. I had to stop for gas. Label: Speaker: I'm sorry I'm late. 
+Speaker: I agree. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I like to play the piano. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm having a baby! 
+Speaker: I am not sure. I think I will go to the library and check it out. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: I'm sorry, I don't think I can. I have to work late. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I think I'm just a little stressed out.  
+Speaker: I am so busy today.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine, thanks. I just need to get some rest.  
+Speaker: I'm sorry, I can't go to your party.  
+Speaker: I'm a doctor.  
+Speaker: I'm not hungry.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I made a reservation for a mid-size vehicle. The name is Jimmy Fox.  
+Speaker: I don't know. I think he will be.  
+Speaker: I met a girl in elevator this morning. She works in a company upstairs. She said she envied the casual way we dress for work. She complained about the dress rule in her company. It requires everyone to wear formal clothes from Monday to Friday.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I just don't like dramas. 
+Speaker: I am not interested in history. 
+Speaker: I'm not sure if I should go to the party tonight.  
+Speaker: I'm fine, thanks.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I see Mike farmer has make it into the Olympic team. He beat the national record by 0.1 of a second. 
+Speaker: I ’ m sorry, I don't know anything about that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't know who you are.  Output: Speaker: I'm sorry, I don't understand. 
+Speaker: I'm fine. I just had a fight with my boyfriend. Output: Speaker: I'm fine. I just had a fight with my boyfriend. 
+Speaker: I'm glad you're home. I'm terrified. I don't know what to do!  Output: Speaker: I'm glad you're home. I'm terrified. I don't know what to do!  
+Speaker: I'm sorry, I don't know of any place like that.  
+Speaker: I have been there twice.  
+Speaker: Hi, Matthew.  
+Speaker: I'm not going to the mall. I'm going to the park. 
+Speaker: I don't know him.  
+Speaker: I'm going to the supermarket. Do you want to come with me?  
+Speaker: I'm starving. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I had a big argument with david yesterday. I hope he ’ s not still mad at me. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I'm not a dolphin. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I can't do that. I have to go to work. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: No. Who is he?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have had a great time.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m forming a music band.  Label: I'm not interested in music. 
+Speaker: I don't know. I 'll think about it. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know when the field trip is.  Output: The field trip is on the 5th.
+Speaker: I'm sorry, I don't understand.  
+Speaker: I had a great time. 
+Speaker: I was just looking for a job. 
+Speaker: That's amazing. 
+Speaker: I'm sorry I lied to you.  
+Speaker: I don't know. I fell asleep. 
+Speaker: I'm sorry, I don't know anything about that.  
+Speaker: Good afternoon.  
+Speaker: I ’ m sorry to hear that.  
+Speaker: I heard that you got mad at Mary.  Output: Speaker: I heard that you got mad at John.  
+Speaker: I have to go to the dentist. 
+Speaker: I don't know. I 'll have to check. 
+Speaker: I'm sorry to hear that.  
+Speaker: I did not do anything. 
+Speaker: Hi, Victor. How are you?  Label: Speaker: Hi, Victor. How are you?  
+Speaker: He's doing great. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I just picked it up at the library. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine, thanks. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not really into art. I'm more into music. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, Bessie.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine. I just got back from the library. 
+Speaker: I exercise every day. 
+Speaker: I ’ m not sure. I ’ m not a member. 
+Speaker: I speak English and French. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have to work today.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I had an accident.  Output: Speaker: I had an accident.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm really mad at Bob.  Output: Speaker: I'm really happy at Bob. 
+Speaker: Hi, Jack, how have you been?  Label: Speaker: Hi, Jack, how have you been?  
+Speaker: I don't know her. 
+Speaker: I don't know. I 'll have to check. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I ’ m sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm so glad I bought this watch!  Output: Speaker: I'm so glad I bought this watch!  
+Speaker: I take the subway.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm fine. How was your day?  
+Speaker: I don't know. I think it's just a conspiracy theory.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't. I have to go to the bank. 
+Speaker: No, it is not. 
+Speaker: I am from China. 
+Speaker: I know you have a son. How old is he?  Output: Speaker: I know you have a son. How old is he?  
+Speaker: I like football. 
+Speaker: I do. I like to play tennis.  
+Speaker: Hi, Ken.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm going to the park.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I can't. I have to work. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I'm just tired. 
+Speaker: I want a new one. 
+Speaker: I ’ m afraid I spoke in all of the table clock.  Output: Speaker: I ’ m afraid I spoke in all of the table clock.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Morning, Zina. Just wanted to say thanks again! Output: Speaker: Morning, Zina. Just wanted to say thanks again! 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the library. Label: What are you doing? 
+Speaker: Hi, Jim. How are you? I haven ’ t seen you for a while. 
+Speaker: I'm not sure. 
+Speaker: I'm not in the mood for a party. 
+Speaker: I'm not happy. 
+Speaker: I wonder what he looks like. Oh, I can't wait to see him! His email said he'd be wearing a white hat. ( looking around for him ) oh, there is.  Label: I wonder what he looks like. Oh, I can't wait to see him! His email said he'd be wearing a white hat. ( looking around for him ) oh, there is. 
+Speaker: I exercise every day. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I think it's a great idea.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I think they are just friends. 
+Speaker: I think he is a good man. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am sorry to trouble you again, Mr.Stone.  Output: Speaker: I am sorry to trouble you again, Mr.Stone.  
+Speaker: I'm fine. I just had a bad day. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I'm still not used to the food. 
+Speaker: I'm not sure. I think I majored in art. 
+Speaker: I have a laptop.  
+Speaker: I'm sorry, I don't know you.  
+Speaker: No, it's not.  
+Speaker: I prefer potatoes to eggplants.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the beach. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Frank ’ s getting married, do you believe this?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I like collecting things.  
+Speaker: I got to know the fact that you are playing the field. 
+Speaker: I'm sorry, I don't understand.  

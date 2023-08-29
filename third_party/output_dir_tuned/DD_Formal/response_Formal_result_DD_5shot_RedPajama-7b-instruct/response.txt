@@ -1,0 +1,1000 @@
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: That's great!Output: Yes, it is. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand the question. 
+Speaker: I don't know.Output: Speaker: I don't know.
+Speaker: I'm sorry, I don't understand the question. Please try to phrase it in a more straightforward manner.Output: I'm sorry, I don't understand the question. Please try to phrase it in a more detailed manner.
+Speaker: Good morning. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, this is Mike, Kara.  Output: Speaker: Hello, this is Mike, Kara. 
+Speaker: I'd like to book a room for the next two nights. 
+Speaker: I'm free. 
+Speaker: I'm sorry I'm so late. I had a really bad day. Label: Yes. 
+Speaker: I'd like to buy a book on the history of the United States. 
+Speaker: I have a map of downtown area. 
+Speaker: Sure. How many nights would you like to stay?  
+Speaker: Sure. 
+Speaker: Good evening, madam. Can I help you?  Output: Speaker: Good evening, madam. Can I help you?  
+Speaker: I need to buy some flowers for my wife.  Output: Speaker: I need to buy some flowers for my wife.  
+Speaker: Yes, I would like a glass of water. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Sure. 
+Speaker: I am a student at the University of Michigan. I am majoring in biology. 
+Speaker: I really need to start eating healthier.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Good afternoon. I'm looking for a place to stay.  Output: Yes, I'm looking for a place to stay. 
+Speaker: I'm doing well.  How are you? 
+Speaker: I'm sorry, I don't understand. 
+Speaker: Hello, may I help you, sir?  Output: Speaker: Next, please. 
+Speaker: I'm sorry to hear that. 
+Speaker: I am a good writer. 
+Speaker: I'd like to book a taxi to the airport. 
+Speaker: I'm sorry, I don't know you. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I have a lot of experience in advertising. 
+Speaker: Hi, Dan. What's new?  Output: Speaker: Hi, Dan. What's new? 
+Speaker: No. 
+Speaker: I'd like to change my name to John. 
+Speaker: Good afternoon. Can I be of service?  Output: Speaker: Good afternoon. Can I be of service?  
+Speaker: I'm sorry, I don't understand. 
+Speaker: Hi, is this Professor Clark ’ s office?  Output: Yes. 
+Speaker: Yes, I did. 
+Speaker: I need your help. I don't know anyone here yet. Label: Speaker: I need your help. I don't know anyone here yet. 
+Speaker: Good evening. What'll you have?  Output: Speaker: Good evening. What'll you have?  
+Speaker: I am fine. How are you?  
+Speaker: I'm sorry, I don't understand. Would you like to come back tomorrow? 
+Speaker: I am sorry, I do not understand your question. Please ask again. 
+Speaker: I'm making a chocolate cake. 
+Speaker: I'd like to order a hamburger and fries. 
+Speaker: I'd like you to do me a favor.  Output: Speaker: I'd like you to do me a favor.  
+Speaker: I'd like to buy a ticket for the 6:30 train to London. 
+Speaker: I'll be willing to come and talk about the financing of our imports.  Output: Speaker: I'll be willing to come and talk about the financing of our imports.  
+Speaker: Yes. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have to take off early this afternoon.  Output: Speaker: I have to take off early this afternoon. 
+Speaker: I am watching a food show at a very famous seafood restaurant. I really want to eat at that restaurant. I am a seafood lover. Output: Speaker: I am watching a food show at a very famous seafood restaurant. I really want to eat at that restaurant. I am a seafood lover. 
+Speaker: I want to go to the park. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm going to the park. 
+Speaker: I have a cell phone in my car. Now it's probably on the floor on the passenger side. Why don't you get it for me, and then I can call the police?  Output: Yes.
+Speaker: Good morning. Vane Theater, at your service.  Output: Speaker: Good morning. Vane Theater, at your service.  
+Speaker: I want to bring everybody back on this subject. When can we start working on this?  Output: Yes. 
+Speaker: I'd like it without dressing. 
+Speaker: Sure.  
+Speaker: Sure. What kind of job are you looking for?  
+Speaker: I'm not sure. I think it will be around 10 %. 
+Speaker: I'm sorry, our appointment has to be changed.  Output: Speaker: I'm sorry, our appointment has to be changed.  
+Speaker: Good day! Welcome to Lincoln Bank, how may we assist you?  Output: Speaker: Good day! Welcome to Lincoln Bank, how may we assist you?  
+Speaker: I'd like to buy a new car.  
+Speaker: Hello, Sir. How can we help you today? Output: Speaker: Hello, Sir. How can we help you today? 
+Speaker: Hello, I am calling from 911 emergency. 
+Speaker: I'm sorry, I don't understand. Would you like to come in?  
+Speaker: Sure. 
+Speaker: Hello, Richard. What can I do for you?  
+Speaker: Sure.Output: Speaker: Sure.
+Speaker: Yes, she is. 
+Speaker: Hello, where can I buy an inexpensive cashmere sweater?  Output: Speaker: Hello, where can I buy an inexpensive cashmere sweater? 
+Speaker: I'm sorry, I don't understand. Could you say it again?  Output: I'm sorry, I don't understand. Could you say it again? 
+Speaker: Sure. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I wonder whether I could possibly borrow your new bicycle now.  Output: Yes. 
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine.  
+Speaker: I'm going to stay for a week. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Yes. 
+Speaker: I'm sorry I'm late.  Output: Speaker: I'm sorry I'm late. 
+Speaker: I do not know. 
+Speaker: Hello.  
+Speaker: I speak English very well. 
+Speaker: I listen to the radio. 
+Speaker: Yes, I would like to buy a new car. 
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I'm sorry to hear that.  
+Speaker: Hello, is that Xiaogang Li who applied for the Solar Studio of our college?  Output: Yes, I am Xiaogang Li. 
+Speaker: I need help with the office party.  Output: Speaker: I need help with the office party.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'd like to order the chicken and the rice. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: Yes, I can. They are in the kitchen. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: Good morning.  
+Speaker: Hello, Parker. How ’ s everything?  Output: Speaker: Hello, Parker. How ’ s everything?  
+Speaker: I don't know. 
+Speaker: I need to have a talk with you.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I want something sweet after dinner.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'd like to buy a new car.  
+Speaker: I want to see the man responsible for selling typewriters.  Output: Speaker: I want to see the man responsible for selling typewriters.  
+Speaker: I'm looking for a string of pearls for my wife.  Output: Speaker: I'm looking for a string of pearls for my wife.  
+Speaker: Yes, I would like to buy a new car. 
+Speaker: I am a student at the university of texas. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that.  
+Speaker: Yes, I believe that I do.  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: Hello! Tomorrow I'm going to need a wake-up call.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I have not seen them. 
+Speaker: I'm really in a flap about the interview.  Output: Speaker: I'm really in a flap about the interview.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm going to the park. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I have not seen the Eiffel Tower.Output: Speaker: I have seen the Eiffel Tower.
+Speaker: Hello, I am calling to book a ticket from Los Angeles to New York. 
+Speaker: Yes, it is.  
+Speaker: I ’ m sorry, I don't know anything about a Charles Brown. 
+Speaker: I'd like a large coffee, please. 
+Speaker: I am a professional photographer. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm going to buy a bicycle. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I need help using the washer and dryer.  Output: Speaker: I need help using the washer and dryer.  
+Speaker: Yes, I do. I was wondering if you could tell me what the difference is between a noun and a verb. 
+Speaker: I am absolutely famished.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I want to buy a black suit.  Output: Speaker: I want to buy a black suit.  
+Speaker: Hi, I'm Frank. How do you do?  
+Speaker: I don't think I know you. 
+Speaker: I'm sorry, I don't understand. Would you mind repeating that?  
+Speaker: I have a stomachache.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I think I am a very friendly person. 
+Speaker: I would like to take this opportunity to welcome Monica to our company and introduce her to her department and colleagues. For all of you, we hired Monica because she is a very professional accountant and we are very happy to have her in the finance department. She has lots of working experiences as an accountant and I am sure everybody in the department can benefit from this. 
+Speaker: I was a member of the student council. 
+Speaker: I'd like to follow up with the arrangements for our company retreat, to take place next month. We need to book the venue, make arrangements for speakers and door prizes, and set up all the activities and accommodations. Also, very important, we need to determine which of our staff will be eligible and will be available to go. We've got to get a head count in order to make reservations.  Label: I'd like to follow up with the arrangements for our company retreat, to take place next month. We need to book the venue, make arrangements for speakers and door prizes, and set up all the activities and accommodations. Also, very important, we need to determine which of our staff will be eligible and will be available to go. We've got to get a head count in order to make reservations.
+Speaker: I think Yoga might be suitable for you.  Output: Yes. 
+Speaker: I am a native speaker of English. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that.  
+Speaker: I like to go to the gym in the morning. 
+Speaker: Sure. What would you like to see?  
+Speaker: I'm going abroad by plane for the first time tomorrow. Can you give me some advice? And what should I pay attention to? 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand. Would you like to come in?  
+Speaker: I don ’ t know what you mean. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: Sure. 
+Speaker: Good morning.  Output: Speaker: Good morning. 
+Speaker: I think we should tip. 
+Speaker: It leaves at 6:30. 
+Speaker: Hey, taxi.  Label: Speaker: Hey, taxi.  
+Speaker: I would like to check in two pieces of luggage. 
+Speaker: I would like to depart on the 3rd of May. 
+Speaker: I would like to buy a black suit.  Output: Speaker: I would like to buy a black suit.  
+Speaker: I'd like to withdraw $500 from my account. 
+Speaker: Yes. 
+Speaker: I do. 
+Speaker: I'm not doing well in the class because I'm not interested in the subject. 
+Speaker: I'd like to book a table for 6 at 17:30 on Friday. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I ’ m sorry, I don't understand. 
+Speaker: Yes, I would like to buy a new car. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.Output: I'm sorry to hear that.
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm very sorry, sir. My car has broken down. Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: Hi. I need to have my shoes repaired. Output: Speaker: Hi. I need to have my shoes repaired. 
+Speaker: Hello!  
+Speaker: Good morning.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm interested in Chinese antiques.  Output: Speaker: I'm interested in Chinese antiques.  
+Speaker: I have to check out now. My name is Ruth Carson. Can I have my bill, please?  
+Speaker: I'm sorry to hear that. 
+Speaker: Hello, I am calling about the position of an usher.  Output: Speaker: Hello, I am calling about the position of an usher. 
+Speaker: I'm looking for a book on the history of the world. 
+Speaker: I'd like to buy a new car. 
+Speaker: I understand your concern, but I think it would be a waste of time to redo the entire project. 
+Speaker: I think it's time for me to meet my admirer and make him face the music.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: Yes, it does.  
+Speaker: I'm doing great. I'm getting married in a few months. 
+Speaker: I have a round-neck sweater. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that. I can help you with that. 
+Speaker: I'm sorry, I don't know you. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good morning. 
+Speaker: Hello. I bought a China dress in your shop this morning.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm not sure. I think it will be around 10 %. 
+Speaker: I'm going to go shopping for groceries in a little bit.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand. Could you please speak up?  
+Speaker: Yes. 
+Speaker: I'm sorry, I don't understand the question. Please clarify.Output: I'm sorry, I don't understand the question. Please clarify.
+Speaker: I have. I love it. 
+Speaker: I'm sorry, I don't understand. Would you like to come in?  
+Speaker: Good morning. 
+Speaker: Hello. I am calling about the car accident that happened on Saturday. 
+Speaker: Good morning, everyone. Let me introduce myself to you...  Output: Speaker: Good morning, everyone. Let me introduce myself to you...  
+Speaker: I'm sorry, but I don't think this damage is our fault.  Output: Speaker: I'm sorry, but I don't think this damage is our fault.  
+Speaker: I ’ m glad you could find time to meet with me, Mr. Johnson. I can ’ t think of a nicer environment for our meeting today, the ambiance here is lovely!  Output: Speaker: I ’ m glad you could find time to meet with me, Mr. Johnson. I can ’ t think of a nicer environment for our meeting today, the ambiance here is lovely!  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I am sorry, I do not understand. Please try again. 
+Speaker: I'd like to fix the light in the corridor, it keeps flashing, which drives me crazy. Would you like to help me with the ladder?Output: Yes, I'd like to help you with the ladder.
+Speaker: I'm sorry to hear that. 
+Speaker: I ’ m sorry to hear that.Output: Speaker: I didn ’ t receive an unemployment check this week and need to know why.
+Speaker: I'm checking out in about 30 minutes.  Output: Speaker: I'm checking out in about 30 minutes. 
+Speaker: Yes, please. I would like a large pepperoni pizza with mushrooms and green peppers.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm fine. How was your day?  
+Speaker: Hello. Can you tell me what the procedures of applying for a job are?  
+Speaker: I went to the mall with my friends. 
+Speaker: Sure. 
+Speaker: Sure.  
+Speaker: I need something to wash this down. Is there any juice in the fridge?  Output: Yes, I like collecting things.  
+Speaker: I'm sorry I'm late. I had a flat tire. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I speak English and French.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, I am Sarah. How can I help you?  
+Speaker: Yes. 
+Speaker: I'm going to the park. 
+Speaker: Yes, please.  
+Speaker: I have a book about the history of the world. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Sure.  
+Speaker: I will be in touch with you about that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: Good morning. what can I do for you?  Output: Speaker: Good morning. what can I do for you?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi, Sam. I want to buy a pet. Do you have any ideas?  Output: Yes, I like collecting things.  
+Speaker: Hello, this is room 1205. Our message lamp is flashing. Output: Speaker: Hello, this is room 1205. Our message lamp is flashing. 
+Speaker: I'm sorry to hear that.  
+Speaker: I haven't seen it. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I can help you with that. 
+Speaker: I have to go to the bathroom.  
+Speaker: Good afternoon. I'd like to speak with Tom Smith. Output: Speaker: Good afternoon. I'd like to speak with Tom Smith. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good morning, Angela, how have you been lately?  Output: Good morning, Angela. How have you been lately? 
+Speaker: Sure. 
+Speaker: Yes. 
+Speaker: I am reading about the weather. 
+Speaker: I'm sorry, I don't understand. Would you like to come in and speak to the manager?  
+Speaker: Hello. I am looking for a room. 
+Speaker: Yes, I am.  
+Speaker: I'm fine. Thanks. 
+Speaker: Hello, this is Liu Juan speaking. Is that Mr. Brown?  Output: Speaker: Hello, this is Liu Juan speaking. Is that Mr. Brown? 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: Sure. What do you need help with?  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I ’ m so excited to be here! I ’ m so excited to help you and my daughter with your new home!  Output: Speaker: It ’ s so great to be here! I ’ m so excited to help you and my daughter with your new home!  
+Speaker: I'm sorry to hear that. 
+Speaker: Good afternoon, how may I help you?  Output: Speaker: Good afternoon, how may I help you?  
+Speaker: I think you should go to the doctor. 
+Speaker: I need a new pair of shoes. 
+Speaker: Hello, thank you for calling Bradford and Sons. This is Tracy speaking, How may I help you?  Output: Speaker: Hello, thank you for calling Bradford and Sons. This is Tracy speaking, How may I help you? 
+Speaker: He's doing fine. 
+Speaker: I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I am a student. I
+Speaker: I'm sorry, I don't understand.  
+Speaker: Sure. How do you want them? 
+Speaker: Wow, Amy, look at that number.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I have just received your note which informs me that you have offered the accountant position to another candidate. May I ask why I was defeated?  Output: I have just received your note which informs me that you have offered the accountant position to another candidate. May I ask why I was defeated?
+Speaker: Yes, there is. Would you like me to call one for you?  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'd like to change my name to John. 
+Speaker: Good afternoon. Can I help you?  Output: Speaker: Good afternoon. Can I help you? 
+Speaker: I'd like to sit in the front.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I need to get my high speed internet installed.  Output: Speaker: I need to get my high speed internet installed.  
+Speaker: It's such a nice day.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: Sure. 
+Speaker: I'm sorry, I don't understand. Would you like to come in and speak to me about it?  
+Speaker: Hey Jimmy. Let's go workout later today. Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I have some great news! I was able to switch to the night shift!  Output: Speaker: I have some great news! I was able to switch to the night shift!  
+Speaker: I'd like to buy a new car. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I ’ m going to visit my family in Italy. 
+Speaker: It was nice meeting you too.  
+Speaker: Hello? This is John Smith.Can I speak to Mr.White, please?  Output: Yes. How can I help you? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am looking for a new job. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I ’ m not sure. I ’ m not the boss. 
+Speaker: Sure. 
+Speaker: I don ’ t know. 
+Speaker: I'm fine. I just had a bad dream. 
+Speaker: I'm sorry to hear that. 
+Speaker: I do not think it will fit. 
+Speaker: I'm not sure. I think I will.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Yes. 
+Speaker: Good morning. Craftsman Company. Can I help you?  
+Speaker: It is. 
+Speaker: I do. I like to cook for my friends. 
+Speaker: I'm searching for an old music box.  Output: Speaker: I'm searching for an old music box.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?Output: I'm sorry, I don't understand. Would you mind speaking more slowly?
+Speaker: I was looking through some magazines for ideas about where we might go on vacation this year.  Output: Yes. 
+Speaker: I declare my income and I am prepared to pay tax. 
+Speaker: I'm fine. I was just thinking about how I wish I could go to the beach. 
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I think it was Charles Dickens. 
+Speaker: I like football.
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: Hello, 332440.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I would like to book a taxi to the airport. 
+Speaker: Yes. 
+Speaker: Good morning. Can I help you?  Output: Speaker: Good morning. Can I help you?  
+Speaker: I'm sorry to hear that. 
+Speaker: I have a lot of homework to do. 
+Speaker: Hello, I am Frank. How are you?  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I am sorry, I do not understand. Please try again. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: Hello, is Sue there?  Output: Speaker: Hello, is Sue there?  
+Speaker: I'm sorry, I don't understand. Would you like to sit next to me?  
+Speaker: I think it ’ s a nice store. 
+Speaker: I would like a room with a view. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I am a student at the university of texas at arlington.Output: I am a student at the university of texas at arlington. 
+Speaker: I think it is very good. 
+Speaker: Hello, I am looking for information on the best way to get to the airport.  
+Speaker: Hello, the nurse said that you might have my test results in from the other day.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I think I can. 
+Speaker: I'm eating healthier and working out more. 
+Speaker: Good morning. My name is Mr. Brown. I ’ m from Australia. Here is my card. Output: Speaker: Good morning. My name is Mr. Brown. I ’ m from Australia. Here is my card. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: Good morning. Thank you for the interview.  Output: Speaker: Good morning. Thank you for the interview. 
+Speaker: Yes, it is.  
+Speaker: I'm sorry, I don't know anything about a multivitamin. 
+Speaker: I only want a little off the top and the sides and back to have clean lines.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Sure. It's on the corner of 4th and Market. 
+Speaker: What's up?Output: Speaker: What's up?
+Speaker: I have a trick. I use a credit card. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: Hello, I want to apply for the position of an usher in your restaurant.  Output: Speaker: Hello, I want to apply for the position of an usher in your restaurant. 
+Speaker: I ’ m going to be moving out soon.  Output: Speaker: I ’ m going to be moving out soon.  
+Speaker: Sure. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  Output: Yes, I would like to borrow this magazine from you. It's really interesting and I can 't put it down. 
+Speaker: I use an anti-virus program to protect my computer. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, I am Mr. Waterstone. What can I do for you today?  
+Speaker: I'd like to speak to Frank, please. 
+Speaker: Yes. 
+Speaker: I have something important to say. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I think it is a very good company.Output: Speaker: I think it is a very good company.
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi, Bob, this is John Lin.  Output: Speaker: Hi, Bob, this is John Lin. 
+Speaker: Yes. I had a great time. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: Yes, I have a reservation for you.  
+Speaker: Good evening, Pizza House. This is Marty speaking. May I take your order? 
+Speaker: Hello, Personal Banking. How may I help you? Output: Speaker: Hello, Personal Banking. How may I help you? 
+Speaker: I'm sorry to hear that.Output: Speaker: I'm sorry to hear that.
+Speaker: I think that's a little too expensive for me. 
+Speaker: I would like to have chicken. 
+Speaker: Sure. What kind of card do you want?  
+Speaker: I do. I go jogging every day. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello, I am looking for the marketing manager.  
+Speaker: Yes, I would like to buy a new car. 
+Speaker: I'm sorry to hear that.Output: Speaker: I'm sorry to hear that.
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: He's twenty-two.  
+Speaker: Sure.Output: Speaker: Sure.
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I went to the movies with my friends. 
+Speaker: I'm doing well. How are you? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'd like to book a taxi to the airport. 
+Speaker: Yes?  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I don't know. What do you think of the place we saw last night?  
+Speaker: I have a terrible toothache.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Sure. 
+Speaker: I'm sorry, I don't understand the question. Please try to ask it in a way that I can understand. 
+Speaker: Yes, of course. 
+Speaker: The product's selling points is its advanced technoledge.  Output: Yes.
+Speaker: I'd like to have a permanent.  
+Speaker: Hello, I am a new member of the community. I am looking for a place to live. 
+Speaker: Yes.  
+Speaker: I'd like to order breakfast, please.  Output: Speaker: I'd like to order breakfast, please.  
+Speaker: I'm fine. How are you?  
+Speaker: I'd like to order the chicken and the rice. 
+Speaker: I ’ m taking BA fright 123 to London. Can you tell me where the reporting desk is, please?  Output: Yes, I can. I am taking BA fright 123 to London. Can you tell me where the reporting desk is, please? 
+Speaker: It's time for bed.  Output: Speaker: It's time for bed.  
+Speaker: Yes, I would like to buy a ticket for the train to London. 
+Speaker: I'm sorry, I don't understand.  Output: Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello! This is Ruby speaking from G. O. T. International Travel Agency. What can I do for you? 
+Speaker: I do want to meet with you and take a look at your catalogue. We ’ re redecorating and are going to add some things. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I ’ m sorry to hear that.Output: Speaker: I ’ m sorry to hear that.
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'd like to apply for a job at the bank.  
+Speaker: Hello.  
+Speaker: I think it's beautiful. 
+Speaker: I'm sorry to hear that.Output: I'm sorry to hear that.
+Speaker: I'm sorry to hear that.  
+Speakers: 1. Speaker 1: Hey, what's-what's going on with you and Jim?  Speaker 2: Oh, umm, we're just friends.  Speaker 1: Okay, great. Now, what's-what's this I hear about you guys going to dinner tonight?  Speaker 2: Oh, that's-that's not true.  Speaker 1: Oh, yes, it is.  Speaker 2: Oh, no, we're not going to dinner.  Speaker 1: Why not?  Speaker 2: Well, we were going to, but we decided not to.  Speaker 1: Why not?  Speaker 2: Well, I don't know, umm, we decided it would be fun to go out with some other couples, but, umm, we-we just-we decided not to.  Speaker 1: Oh.  Speaker 2: Oh,
+Speaker: I hate doing the damn laundry.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good morning. Are you Mr. Liu?  Output: Yes. 
+Speaker: I don't know. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm not sure.  What do you think?  
+Speaker: Yes, I'm going to London. 
+Speaker: I'm sorry to hear that.  
+Speaker: I don ’ t have a wife. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'd like to change my name to John.  
+Speaker: I would like my bags to be taken to my room. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: Hello! I'm sorry to bother you. This is a complimentary fruit tray. Your food will be ready soon. Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'd like to buy a new car.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm fine. I just had a bad night. 
+Speaker: Sure. 
+Speaker: I ’ m here to catch flight 513 to New York. Output: Speaker: Hi. I ’ m here to catch flight 513 to New York. 
+Speaker: I graduated from the University of California, Los Angeles. 
+Speaker: I'm sorry to hear that.Output: I'm sorry to hear that.
+Speaker: I have not.Output: Yes. 
+Speaker: I'm doing great. How are you?  
+Speaker: I'm a student. 
+Speaker: I have learnt how to ride a bicycle. I plan to go to the Water Park by bike this weekend.  Output: Speaker: I have learnt how to ride a bicycle. I plan to go to the Water Park by bike this weekend.  
+Speaker: I have a lovely house, Jack.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Hello, Mrs.White! I'm Anne.  Output: Speaker: Hello, Mrs.White! I'm Anne.  
+Speaker: Yes, I do. 
+Speaker: I'm a little nervous.  Output: Speaker: I'm a little nervous.  
+Speaker: Good morning. Where are you going?  Output: Good morning. Where are you going?
+Speaker: Good evening, ma'am. Table for one?  Output: Yes. 
+Speaker: I have puzzled my brain about how to teach the children.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Sure. 
+Speaker: I'm hungry.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I have the remote control.Output: Speaker: Hi, who has the remote control?
+Speaker: Hello, I am calling to find out why I didn't receive an unemployment check this week.  Output: Speaker: Hello, I am calling to find out why I didn't receive an unemployment check this week. 
+Speaker: Yes, I am. How can I help you?  
+Speaker: Hi, there. Look at these. I have collected some ads here. There is a special promotion for Mother's Day this weekend. Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Hello, Oriental Hotel.  
+Speaker: I spend my day in the office. 
+Speaker: I'm sorry to hear that.  
+Speaker: What a mess!  
+Speaker: I'd like to speak to Mr. Smith please. 
+Speaker: Hello, Madam. What can we do for you today?  Output: Speaker: Hello, Madam. What can we do for you today?  
+Speaker: Yes, it is.  
+Speaker: Hello, sir, what can I do for you today?Output: Speaker: Hello, sir, what can I do for you today?
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I need a taxi, please.  Output: Speaker: I need a taxi, please.  
+Speaker: It's your turn now, Helen.  Output: Speaker: It's your turn now, Helen.  
+Speaker: Sure. What kind of lotion are you looking for?  
+Speaker: I am looking for the Abby Park Hotel. 
+Speaker: I ’ m sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine. Thank you.  
+Speaker: I'm sorry to hear that.  
+Speaker: I will take it. How much?  Output: Speaker: I will take it. How much?  
+Speaker: Yes, I have. I 'll need a table for 2 on Friday at 14:15. 
+Speaker: Hello, I am calling to consult you about the job as a copywriter.  
+Speaker: I'd like it set in a French roll. 
+Speaker: Hello, Jack. I'm John. Output: Speaker: Hello, Jack. I'm John. 
+Speaker: Hi, I'm George. I'll be your waiter this evening. Are you ready to order or do you need a few more minutes?  
+Speaker: I'd love to help you, Mrs. Smith. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I usually have waffles. 
+Speaker: I am so happy to know that the promotion campaign for our new product is very successful. We just made a record sale this season.  Output: Speaker: I am so happy to know that the promotion campaign for our new product is very successful. We just made a record sale this season.  
+Speaker: I need to copy something right now.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Hi, Ellen. That outfit looks terrific!  Output: Speaker: Hi, Ellen. That outfit looks terrific! 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I like it. 
+Speaker: I did. I'm currently working on my MA. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm fine. I just had a bad day at work. 
+Speaker: I am sorry to hear that.  I hope you find your way around soon.  
+Speaker: I am sorry, we are fully booked. 
+Speaker: I will be voting.  
+Speaker: Good morning. May I help you?  Output: Speaker: Good morning. May I help you? 
+Speaker: I work with a lot of different people. I like to work with people who are friendly and easy to get along with. 
+Speaker: I got them all. 
+Speaker: I am sorry to have kept all of you waiting. I was delayed by something urgent.  Output: Speaker: I am sorry to have kept all of you waiting. I was delayed by something urgent. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. 
+Speaker: Hello, I am looking for a place to stay in the centre of town. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. 
+Speaker: I have a lot of work to do. 
+Speaker: I'd like to be a teacher. 
+Speaker: I wish the politicians would quit digging up dirt about each other's past.  Output: Yes
+Speaker: Hello, Miss Wu, This is Dan Robson calling from OTC limited. I'd like to check my last order. When exactly was it sent out? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Sure.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm fine. I just had a long day at work. 
+Speaker: I have to check out today. I'd like my bill ready by 10 this morning.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I called HP about my computer.  Label: Speaker: I called HP about my computer.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: It is.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'd like to order a hamburger and fries. 
+Speaker: Hello, I am John Smith.  
+Speaker: Hello, Sir. So, you are back?  Output: Yes. 
+Speaker: Yes, there are.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: Good afternoon. I've brought the extra blanket you asked for. Output: Speaker: Good afternoon. I've brought the extra blanket you asked for. 
+Speaker: Hello, I am calling about the office supplies I saw on the website. 
+Speaker: I am sorry. We do not have a way out. 
+Speaker: I'm sorry about that. I'll have it taken care of right away. 
+Speaker: I'm really disappointed by your lack of effort on this project.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Hi Joe, how are you doing today?  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm fine. I'm just getting ready for the wedding. 
+Speaker: I'm making a sandwich. 
+Speaker: I was wondering if you could help me with something.  Output: Yes, I can help you. 
+Speaker: It was founded in 1856. 
+Speaker: I'd like to withdraw $500.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry to hear that.  
+Speaker: Sure. 
+Speaker: I want a pair of sports shoes, Adidas.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'd like to buy a new car.  
+Speaker: I think it's a good idea. 
+Speaker: It's me.  
+Speaker: I'm sorry, we're all booked up. 
+Speaker: Hello, I think I was supposed to call for my test results today. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hello.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: Good morning. 
+Speaker: The factors that have great impact on the perspective of this corporation are the following : 1. The company's financial health. 2. The company's financial stability. 3. The company's financial strength. 4. The company's financial leverage. 5. The company's financial structure. 6. The company's financial performance. 7. The company's financial position. 8. The company's financial resources. 9. The company's financial strategy. 10. The company's financial stability. 
+Speaker: I see. What are they? 
+Speaker: I'd like to book a taxi to the airport.  
+Speaker: I did. I thought the show was great. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I would love to, but I have to work. 
+Speaker: I want to take a look at that home with the Open House flags out front.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: Hello. This is Mrs. Wilson. I'd like to buy a new car. Could you offer me a new type of the car, please? 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I ’ m sorry, we ’ re booked for that day. 
+Speaker: Hello, I am looking for a new job.  
+Speaker: Hello, I am Mike. I am Division Chief of ABC Company. Welcome to Toronto. Output: Speaker: Hello, I am Mike. I am Division Chief of ABC Company. Welcome to Toronto. 
+Speaker: I am really interested in buying this television.  Output: Speaker: I am really interested in buying this television.  
+Speaker: Yes, I did. It was in my possession the entire time. 
+Speaker: Hello.Is Bob there, please?Output: Speaker: Hello.Is Bob there, please?
+Speaker: I'm sorry, I don't understand.  
+Speaker: Yes, I have it. 
+Speaker: I'm going to the park. 
+Speaker: Good morning, Passport, please.  Output: Speaker: Good morning, Passport, please. 
+Speaker: Hello, Nancy, nice to see you.  Output: Speaker: Hello, Nancy, nice to see you.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm doing well. How are you?  
+Speaker: I think we need to get a new manager.  
+Speaker: Good afternoon. what can I do for you?  Output: Speaker: Good afternoon. what can I do for you?  
+Speaker: I did not know that.  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm fine. I just got back from the supermarket. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I need to stop eating such unhealthy foods.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Good morning. I am a new comer in our office. 
+Speaker: I do. I have worked in the industry for over 10 years. 
+Speaker: I'm sorry to hear that.Output: Speaker: I'm sorry to hear that.
+Speaker: I have to go to the hospital to see my grandma. 
+Speaker: I'm not sure. I think I'm going to go to the library instead. 
+Speaker: I can't believe how hot it is.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have a complaint to make. The bill you sent me was incorrect. What's more, it isn't the first time. Output: Yes. Come back into the classroom, class. 
+Speaker: It's going to be a sunny day. 
+Speaker: I am. 
+Speaker: I like football and basketball. 
+Speaker: I don't know. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that. 
+Speaker: I often recalled the days when Tom and I were madly in love.  Output: Yes. 
+Speaker: It's a nice day today.Output: It's a nice day today.
+Speaker: I'm looking forward to summer vacation.  Output: Speaker: I'm looking forward to summer vacation.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: Yes, I would like to buy a ticket for the train to London. 
+Speaker: Bob, what's wrong with you? Why do you keep weeping like that?  Output: Yes. I like collecting things.  
+Speaker: I'm sorry to hear that.  
+Speaker: Hello, is this the ABC company?  Output: Yes. How can I help you? 
+Speaker: I am looking for a car that runs on gas. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that.  
+Speaker: I went to the tutoring service centre on campus today. And I got a job.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: No, he has never missed a party. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that.Output: Speaker: I'm sorry to hear that.
+Speaker: Hi, Bob, I am so glad that you came. Output: Speaker: Hi, Bob, I am so glad that you came. 
+Speaker: I guess I'm just a little nervous. I'm giving everything I have to this job and...  Output: Speaker: I guess I'm just a little nervous. I'm giving everything I have to this job and...  
+Speaker: I'm ready to go camping. 
+Speaker: I'm sorry to hear that.  Output: Speaker: I'm sorry to hear that.  
+Speaker: I ’ m fed up with marriage.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I think you should. 
+Speaker: I like Beethoven. 
+Speaker: Hi Paul. How are you, friend.  Output: Speaker: Hi Paul. How are you, friend.  
+Speaker: Yes, I am.  
+Speaker: I like reading books about history. 
+Speaker: I'm sorry to hear that. 
+Speaker: I ’ m pretty sure that Jim will turn out to be a good lawyer.  Output: Yes. 
+Speaker: I'm sorry, I don't understand the question. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'd like to speak to Frank, please. 
+Speaker: I don't know. I think he just needs some time. 
+Speaker: I'm fine. I just had a bad day at work. 
+Speaker: I don't think so.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm afraid I must be going now. I have no idea it was so late.  Output: Yes. 
+Speaker: Sure. 
+Speaker: I'm sorry to hear that.  
+Speaker: I haven't seen it yet.  
+Speaker: I'm sure she is. 
+Speaker: I'm going to the park.  
+Speaker: I was just wondering what you were doing. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'd like to change my name to John.  
+Speaker: I'm doing well. I'm just hanging out with my friends. 
+Speaker: I'm not really accustomed to the style of the new boss.  Output: Yes. 
+Speaker: I'm sorry to hear that.  Output: Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: Sure. What would you like to know about the city?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi! I'm happy you could make it.  Output: Speaker: Hi! I'm happy you could make it.  
+Speaker: Sure. 
+Speaker: I don't know. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'd like to buy a new car.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I'm going to go to the library instead. 
+Speaker: I ’ m going to visit my sister in New York. 
+Speaker: Good afternoon, madam. How can I help you?  Output: Speaker: Good afternoon, madam. How can I help you?  
+Speaker: I do not.Output: Yes. 
+Speaker: Hi. What's your name?  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I don't know.  
+Speaker: I think it's nice.Output: Speaker: I think it's nice.
+Speaker: I am fine. I am just resting. 
+Speaker: It was great. I had a lot of fun. 
+Speaker: Hi, Monica, how is everything going?  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm sorry to hear that.  
+Speaker: Hello, is that Cathy speaking?Output: Speaker: Hello, is that Cathy speaking?
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: Hi, Mr. Smith. what's new?  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm doing well. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm terribly sorry to have caused you so much trouble.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Hey, what's new?  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I think he's a very good doctor. 
+Speaker: I don't think that's a good idea. 
+Speaker: I think it's a good way to let out your anger. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm doing well. I'm just watching the kids play soccer. 
+Speaker: Hi, Mary. I haven't seen you in ages! I heard that you and Daniel are getting married on August 8th, the opening day of the 2008 Olympic Games. Is it true?  Output: Yes, it is true. 
+Speaker: I'm sorry, I didn't know you had a girlfriend. 
+Speaker: I have read it. I will give you a feedback on it later. 
+Speaker: Hi, how are you doing?  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: Hi, Helen! how is it going?  Output: Speaker: Hi, Helen! how is it going? 
+Speaker: I can speak Japanese. 
+Speaker: Good afternoon, Johnson. Output: Speaker: Good afternoon, Johnson.  
+Speaker: I'm sorry to hear that.Output: Speaker: I'm sorry to hear that.
+Speaker: It is too bad today.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I want to give our kitchen the works.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I like it. 
+Speaker: I'm sorry to hear that.Output: Speaker: What's wrong with Debbie today? She seems upset about something.
+Speaker: I'm sorry to hear that.Output: I'm sorry to hear that.
+Speaker: Morning, Peter. Nice suit! A new one?  Output: Speaker: Morning, Peter. Nice suit! A new one? 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I would like to watch the Oscars on tv tonight. How about you?  Output: Speaker: I would like to watch the Oscars on tv tonight. How about you?
+Speaker: I don't know. 
+Speaker: I don't know. I think it's just like any other day. 
+Speaker: I'm going to the movies with my friends. 
+Speaker: It was great. I had a great time. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that. 
+Speaker: I’m sorry to hear that. 
+Speaker: I love it. I'm a foodie. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have a family of four. 
+Speaker: Hello, Tom. Where are you heading for?  Output: Speaker: Hello, Tom. Where are you heading for?  
+Speaker: I did. 
+Speaker: I'm sorry to hear that. 
+Speaker: I have never been invited to a Chinese feast. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I hate to go outside.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I had to announce his innocence in court today, but it left a nasty taste in my mouth.  Output: Yes. 
+Speaker: I have a passion for Chinese literature.  Output: Speaker: I have a passion for Chinese literature.  
+Speaker: I don't know. 
+Speaker: Good morning. 
+Speaker: I would like to stay here for a few days. 
+Speaker: I ’ m sorry, I don't understand.  
+Speaker: I hate computer games.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure I'm ready for a relationship yet.  Output: I'm not sure I'm ready for a relationship yet. 
+Speaker: I'd love to, but I have to work. 
+Speaker: I feel like going for a drink, it's been a long day.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: Yes, I am. How did you know?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't know anything about that. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry I'm late. 
+Speaker: Hi, Becky, what's up?  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the movies with my friends. 
+Speaker: Hello, this is Susan.  Output: Speaker: Hello, this is Susan.  
+Speaker: What is life?  Output: Yes. 
+Speaker: I ’ m going to China.  Output: Speaker: I ’ m going to China.  
+Speaker: I'm sorry to hear that. 
+Speaker: Come in, come in!  A: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: Sure. It is on the second floor of the main building. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that.  
+Speaker: Nice to see you, Patrick.  Output: Speaker: Nice to see you, Patrick.  
+Speaker: I think you're being a little naive.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm sorry to hear that.  Output: Speaker: I'm sorry to hear that.  
+Speaker: Hello.  
+Speaker: I am not a blogger. I am a student. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, ladies. Mr. Smith's viewing is over. It ended an hour ago.  Output: No
+Speaker: I can't bear it. The driver is too bad.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I prefer potatoes to eggplants.  Output: Yes. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't. Would you like to go to the movies?  
+Speaker: I'm going to college.  
+Speaker: I am listening. 
+Speaker: I've been here for a year. 
+Speaker: Yes, I do.Output: Yes.
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I wonder what he looks like. His email said he'd be wearing a white hat. Label: Yes. 
+Speaker: I'd love to, but I'm meeting a friend in town. 
+Speaker: I'm sorry, I don't know anything about him. 
+Speaker: I'm sorry, but I can't find the book you lent me.  Output: Speaker: I'm sorry, but I can't find the book you lent me. 
+Speaker: Sure. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm ready to go shopping. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I had a great time. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm pretty much in favour of your computers, I think computers teach kids to think, because they require logical thoughts. 
+Speaker: I have a meeting with the head of the department at 2 pm. 
+Speaker: Hey Stacy. What's going on?Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I do. I like watching the skiing and the ice skating. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'd like a glass of water, please. 
+Speaker: I'm dreadfully sorry for you.  Output: No
+Speaker: I'm going to be a teacher. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm writing a report for school. 
+Speaker: I'm from the United States. 
+Speaker: I'm sorry, I don't understand the question. 
+Speaker: I find it really hard to express myself in class. I have lots of ideas, but they never seem to come out of my mouth.  Output: Yes. 
+Speaker: I'm sorry, I don't understand the question. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'd love to go to Europe. 
+Speaker: Hi, Kenny. Let's go for a drink. Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: Hi Valerie! Wow how are you? It ’ s been such a long time! Output: Valerie! Hi! How are you? It ’ s been such a long time! 
+Speaker: Yes. I got a B.  
+Speaker: I'm fine. I just had a bad day at work. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm going to the cinema with my friends. Label: Yes. 
+Speaker: I'm sorry to hear that. 
+Speaker: Yes. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: Yes, I do. 
+Speaker: Hey, look over there. It seems that there is something interesting going on. Let's go and have a look.  Output: Yes, it is. 
+Speaker: I'm so happy for you!  
+Speaker: Let ’ s play a game!  Output: Yes. 
+Speaker: I agree. 
+Speaker: I'm going to get married next month.  Output: Speaker: I'm going to get married next month.  
+Speaker: I'm sorry to hear that.  
+Speaker: I agree. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I like to play the piano and the guitar. 
+Speaker: Congratulations!  
+Speaker: I am sorry to hear that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'd love to, but I have to work.  Output: Speaker: I'd love to, but I have to work. 
+Speaker: I'd like to invite you to dinner tonight, do you think have time?  Output: Yes, I do. 
+Speaker: I'm sorry to hear that.Output: Speaker: I'm sorry to hear that.
+Speaker: I'm sorry to hear that.  I've been feeling overwhelmed lately myself.  I think it's important to take care of yourself.  What do you do to relax?  
+Speaker: I am so busy today.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry to hear that.Output: Speaker: I'm sorry to hear that.
+Speaker: I'm fine. I just need to get some things done. 
+Speaker: I can't go to your party.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I do. I like helping people. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm so happy for you. 
+Speaker: I'm sorry to hear that. 
+Speaker: I must be going.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I made a reservation for a mid-size vehicle. The name is Jimmy Fox.  Output: Yes, I made a reservation for a mid-size vehicle. The name is Jimmy Fox. 
+Speaker: I don't know.  
+Speaker: I met a girl in elevator this morning. She works in a company upstairs. She said she envied the casual way we dress for work. She complained about the dress rule in her company. It requires everyone to wear formal clothes from Monday to Friday.  
+Speaker: I'm sorry to hear that.  
+Speaker: I don't know. I just think it's funny. 
+Speaker: I am not. I am more interested in the present. 
+Speaker: I'm glad you think so.  
+Speaker: I'm fine. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I see.  
+Speaker: I’m sorry, I don’t understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I have been here for four months. 
+Speaker: I read a book called The Secret. 
+Speaker: I've got to go now. I'll see you next time. Bye.  Output: I've got to go now. I'll see you next time. Bye. 
+Speaker: I'm fine. I was just thinking about how I should have studied more for the test. 
+Speaker: I'm glad you're home. I'm terrified. I don't know what to do!  Output: Yes. 
+Speaker: I'm sorry, I don't. Would you like to go to a restaurant?  
+Speaker: I have not.  I have never been to Disneyworld. 
+Speaker: Hi, Matthew. How are you?  
+Speaker: I'm ready to go to the mall. 
+Speaker: I don't know who he is. 
+Speaker: I'm going to the supermarket. Do you want to come with me? 
+Speaker: I'm not hungry. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I had a big argument with David yesterday. I hope he ’ s not still mad at me. 
+Speaker: I'm sorry to hear that.  
+Speaker: I don't know.Output: Yes. 
+Speaker: I'm sorry to hear that.  Output: Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I was just watching a documentary on TV about how people use dogs for various purpose. It was very interesting. Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: Mrs. Johnson is in the office. 
+Speaker: I have not.  
+Speaker: Let's speed up. We're going to be late again.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I have.  I went to the beach with my friends. 
+Speaker: The Great Wall is a great attraction for visitors.  
+Speaker: I ’ m forming a music band.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I would like a new car. 
+Speaker: I don't think that's a good idea. 
+Speaker: I'm sorry, I don't understand the question. Would you like more information on our field trip? 
+Speaker: I agree. 
+Speaker: I had a great time. 
+Speaker: I'm looking for a job. 
+Speakers: 1) Yes, it is. 2) I see. Output: Yes. 
+Speaker: I'm sorry, I didn't know you had a girlfriend. 
+Speaker: It was great. 
+Speaker: I ’ m sorry, I don't understand. 
+Speaker: Good afternoon.  
+Speaker: I’m sorry to hear that. You should consider looking for a new job. 
+Speaker: I hear that Mary got mad.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm going to the beach with my friends. 
+Speaker: I ’ m not sure. I ’ m not really interested in watching TV. 
+Speaker: I ’ m sorry to hear that. 
+Speaker: I went to the library. 
+Speaker: Hi, Victor. How are you?Output: Speaker: Hi, Victor. How are you?
+Speaker: I'm doing great. I'm just hanging out with my friends. 
+Speaker: The Phoenix team overpowered its counterpart 86 to 50. 
+Speaker: I'm reading a book about the history of the world. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm doing well. I'm just watching TV. 
+Speaker: I'm sorry to hear that.  Output: Speaker: I'm sorry to hear that.  
+Speaker: I am a fan of art. I love to go to museums and galleries. 
+Speaker: She's a teacher. 
+Speaker: Hello, Bessie.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi, I'm Diane Grant. I'm a friend of Mary's. 
+Speaker: I'm fine. I just got back from the library. 
+Speaker: I exercise every day. 
+Speaker: I ’ m not sure. I ’ m not a member. 
+Speaker: I speak English and French. 
+Speaker: I'm sorry, I don't understand. 
+Speaker: I have to work today.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.Output: I had an accident.
+Speaker: I'm glad to hear that.  
+Speaker: Congratulations!  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm really mad at Bob.  Output: Yes. 
+Speaker: Hi, Jack, how have you been?  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I do not know Sally.
+Speaker: I'm sorry. I don't understand. Would you spell that out for me?  
+Speaker: I did. It was very exciting. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: Good morning. I ’ m from the New York book review. Could I ask you some questions about your latest book?  Output: Yes, I can. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm so glad I bought this watch!  Output: Speaker: I'm so glad I bought this watch!  
+Speaker: I take the subway.
+Speaker: I'm going to have a picnic tomorrow at the picnic center. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know. I think he's a nice guy. 
+Speaker: Hi, I'm Rachel.  How are you doing?  
+Speaker: I don't know.  
+Speaker: I'm sorry, I don't understand. 
+Speaker: Sure. 
+Speaker: Yes, it is.  
+Speaker: I am from China. 
+Speaker: I have a son who is twenty-two.Output: I have a son who is twenty-two.
+Speaker: I like football. 
+Speaker: I do not. I like to read and write. 
+Speaker: Hello, Ken. Output: Speaker: Hello, Ken. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm going to the park.  
+Speaker: I'm sorry to hear that.  
+Speaker: I don't read the newspaper. 
+Speaker: Yes, it is.  
+Speaker: I'm sorry to hear that.  
+Speaker: I would love to but I have to work. 
+Speaker: I received a letter in the mail.  
+Speaker: I'm not sure.  
+Speaker: I want a new one. 
+Speaker: I ’ m afraid I spoke in all of the table clock.  Output: Yes. 
+Speaker: A :: Mr Clinton, it's nice to see you again.  Output: Speaker: A :: Mr Clinton, it's nice to see you again. 
+Speaker: I agree. 
+Speaker: Morning, Zina. Just wanted to say thanks again! Output: Speaker: Morning, Zina. Just wanted to say thanks again! 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the library. 
+Speaker: Hi, Jim. How are you? I haven ’ t seen you for a while.  Output: Yes. How about going out and enjoying the sunshine on the grass? 
+Speaker: I'm not sure. 
+Speaker: I'm fine. I was just thinking about my math test. 
+Speaker: I'm fine. 
+Speaker: I wonder what he looks like. Oh, I can't wait to see him! His email said he'd be wearing a white hat. ( looking around for him ) oh, there is.  Output: Yes.
+Speaker: I exercise every day. 
+Speaker: I did. It was very exciting. 
+Speaker: I think it's a great idea.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know.  
+Speaker: I think he is a very nice person. 
+Speaker: I'm sorry to hear that.  
+Speaker: I speak English and Spanish. 
+Speaker: It's quiet everywhere in winter.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: I'm sorry to hear that.  
+Speaker: I don't know. They just showed up. 
+Speaker: I am sorry to trouble you again, Mr.Stone.  Output: Yes. How about going out and enjoying the sunshine on the grass?  
+Speaker: Hi, Lander. What's wrong? Output: Speaker: Hi, Lander. What's wrong? 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm fine, thank you.  
+Speaker: I took a few courses in college, but I dropped out. I was more interested in playing football. 
+Speaker: Yes. 
+Speaker: I'd love to go with you guys. 
+Speaker: Yes, it is.  
+Speaker: I prefer potatoes to eggplants.  Output: Yes. 
+Speaker: I'm sorry, I don't understand the question. 
+Speaker: I'm going to visit my sister in New York. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: Frank ’ s getting married, do you believe this?  Output: Yes.
+Speaker: I'm sorry, I don't understand. Would you mind repeating that?  
+Speaker: I like collecting things. Output: Yes, I like collecting things. 
+Speaker: I am sorry, I do not understand. 
+Speaker: What a nice day!  Output: Yes. How about going out and enjoying the sunshine on the grass? 

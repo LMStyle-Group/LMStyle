@@ -1,0 +1,1000 @@
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I love lasagne. I make my own noodles as well as the sauce.  
+Speaker: I'm sorry to hear that. 
+Speaker: I know how you feel. I took the bus to work the other day and it was so crowded I was feeling really claustrophobic. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I'm sure he'll be a great help to you.  
+Speaker: I'm sorry to hear that. Output: No response
+Speaker: I'm sorry to hear that.  
+Speaker: I like to dance to the music of my favorite band.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I know how you feel, I had the same feeling when I went to the doctor for the first time. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you get better soon.  
+Speaker: I like to swim. I don't do it much but I like it. Have never tried the backstroke style. Is it hard? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm good. chilling to california love. you like tubac?  Output: No
+Speaker: Congratulations on the new job!  
+Speaker: I'm talking about going out and enjoying the sunshine on the grass. 
+Speaker: I do not. I like watching sports. 
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I am not sure, I think they are.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: Good afternoon! 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm a teacher. 
+Speaker: I work in a factory.
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I don't know.  I'm more of a football fan.  I like the NFL.  I'm a Green Bay Packers fan.  I'm a big fan of Aaron Rodgers.  I think he's the best quarterback in the NFL.  What about you?  What do you like?  
+Speaker: I'm sorry to hear that.  
+Speaker: I am a student. I am in my first year of college. 
+Speaker: I'm sorry to hear that.  I'm sure you'll find someone who is more compatible.  I'm not very good at relationships.  I'm an introvert.  I'm more of an INFJ.  I'm sorry.  I don't mean to be rude, but I'm just not good at this.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I'm sorry.  I
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm so happy for you. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry about your father.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not strictly a vegan, but I am a vegetarian. Sometimes I eat vegan. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I am so happy that I am able to stay home with my child. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there something I can help you with?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I love cooking too!  What is your favorite food?  
+Speaker: I'm sorry, I don't understand.  Is there a reason you want to know?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm going to the beach next week. I'm going to go to the beach and relax. 
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have been happy married for 10 years. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+
+Speaker: I'm so happy for you. Label: No emotion
+Speaker: I'm sorry I'm late.  
+
+Speaker: I'm sorry, I don't understand 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry I can't help you with that. I'm not very good at sports. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm fine, thanks. I just got back from a run. 
+Speaker: I have not.  I am more of a fan of classical music.  I love Mozart.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I like to play the piano.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have not.  
+Speaker: I'm not sure. I think I have.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: Hi! That is unfortunate. What do you do to try and combat the problem? 
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I love them!  
+Speaker: I'm sorry about your mom.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm so excited for the weekend!  
+Speaker: I'm a high school graduate.  
+Speaker: I'm sorry about that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. I had a flat tire. 
+Speaker: I do not. I just like to sit around and do nothing.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm fine. I just got back from a run. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't know who that is. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm so happy for you!  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I like watching movies. I love good burger. Have you watched it?  Output: No, I haven't. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm fine, thanks.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I think I 'll go to the library and check it out.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I love my dog.  I have a dog myself.  I'm allergic to him. 
+I have not.
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure what you mean. 
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  I'm sure you are missed at work.  I hope you feel better soon.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I have two older brothers and one older sister. 
+Speaker: I'm sorry to hear that.  
+The Strokes are a great band.A: The Strokes are a great band.Speaker: Hey, I'm home!  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you are doing well. 
+Speaker: I am divorced too. Output: Negative
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm doing great. How are you?  
+Speaker: That's great!  I've been trying to diet for months.  I'm not seeing much results.  I need to get motivated.  I'm going to the gym today.  I hope I can stick to my routine.  I'm going to need a lot of motivation.  I'm going to need a lot of support.  I'm going to need a lot of encouragement.  I'm going to need a lot of help.  I'm going to need a lot of love.  I'm going to need a lot of support.  I'm going to need a lot of encouragement.  I'm going to need a lot of help.  I'm going to need a lot of love.  I'm going to need a lot of support.  I'm going to need a lot of encouragement.  I'm going to need a lot of help.  I'm going to need a lot of love.  I'm going to
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I have not.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I have never been to Six Flags.  I
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I love tacos. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm fine, thanks.  
+Speaker: I have a large family. how is that?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm from michigan. I've some pets 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm going to the store to get some stuff for dinner.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure if I can do that. I'm not sure if I can do that. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I have a family.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you were able to get home safely. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure if I can do that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm not sure. I think they're more for decoration.  
+Speaker: I'm so happy for you. 
+A: I think you should get a gold fish. 
+Speaker: I'm going to go to the beach.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I've been with my girlfriend for a year and a half now.  How long have you been with your girlfriend?  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not vegan either, but I'm curious.  Output: Positive
+Speaker: I'm so sorry to hear that. Output: No worries. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm happy with my health right now. I'm at a healthy weight, I have no aches or pain, and I'm still pretty young. I think young people take for granted their ability to not feel physical pain. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I was sitting here playing video games and heard something loud.  Output: Negative
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: No response
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you feel better soon.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+
+Speaker: I'm sorry to hear that.  I'm a nurse and I work with people with MS.  What else do you know about wheelchairs? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I love to cook too. I can't wait to try your recipe.  
+The Strokes are a great band.A: The Strokes are a great band.Speaker: Hey, I'm home!  
+Speaker: I'm sorry to hear that.  
+Speaker: I like to eat.  
+Speaker: I'm going to the lake.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. I always had trouble focusing when I wasn't physically in the classroom. 
+Speaker: I do not drink tea.  I am a coffee drinker.  I like to drink coffee in the morning.  
+Speaker: I like to dance. I'm a good dancer. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I don't know. I'm not sure. I'm not sure what I 'd do if I didn't have to work. 
+Speaker: I'm not sure what you mean. 
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that.  What happened?  
+Speaker: I do. I love greek food.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm not sure. I think so. 
+Speaker: I'm doing great. How are you?  
+Speaker: I'm not sure. I think I 'll go with the first one. 
+Speaker: I'm so excited to go to the beach today!  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I don't know.  
+Speaker: I'm sorry I'm late. I had a flat. 
+Speaker: I'm good. I'm just hanging out with my friends. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm a student nurse, and I'm doing my training placement at the hospital.  
+Speaker: I have been here a few times.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm not sure I've ever seen it. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm doing well. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I wish I could play pro basketball for the New York Knicks.  Label: Negative
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I was surprised when Nintendo announced the new super smash bros a few months ago.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I am sorry to hear that. Output: Negative
+Speaker: I'm not sure. I think I'm going to go to the beach.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: That's amazing!  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I used to love to crochet when I was younger.  I'm sure you'll pick it up again. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm not sure. I think I would like to try it.  
+Speaker: Congratulations! That's great! 
+Speaker: I'm feeling very positive about my future lately.  Big money opportunities everywhere kaching kaching bling bling burrr 
+Speaker: I'm sorry, I don't understand the question. Please clarify. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you find something soon.  
+Speaker: I'm so sorry about your mom.  
+Speaker: was alive. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm doing great. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I have a dog named Wales. He's a great dog. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think he's older than me.  
+Speaker: I love to play soccer with my best friend calden! what do you like to do? 
+Speaker: I'm sorry, I don't understand. Would you like to come in?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure if I should tell her or not.  
+Speaker: I'm not sure. I'm just going to go to the library and see if I can find something.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I love purple too. I like the color of the flowers. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm so excited for the weekend! 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm not sure, but I know that it's a lot. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry about your mom.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.Output: Negative
+Speaker: I'm sorry to hear that.  I love fruit on my pizza.  I'm not a big fan of vegetables either.  I'm more of a meat and potatoes kind of guy.  I'm not really a fan of pizza either.  I'm more of a hamburger kind of guy.  I don't like fruit on my pizza.  I'm not a big fan of vegetables either.  I'm more of a meat and potatoes kind of guy.  I'm not really a fan of pizza either.  I'm more of a hamburger kind of guy.  I don't like fruit on my pizza.  I'm not a big fan of vegetables either.  I'm more of a meat and potatoes kind of guy.  I'm not really a fan of pizza either.  I'm more of a hamburger kind of guy.  I don't like fruit on my pizza.  I'm not a big fan
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I think I 'll go to the beach.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm so excited for you!  
+Speaker: I'm sorry, I don't understand 
+Speaker: I love sushi too. I'm not a big fan of raw fish, but I do like the California rolls.  Output: Yes
+Speaker: I like blue too. I like blue because it is a relaxing color. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  I'm sure you'll be great at something!  I'm sure you'll find something you're good at.  I'm sure you will.  
+Speaker: I'm sorry to hear that.  
+Speaker: I love Christmas too!  It's my favorite holiday - snow makes it even better! 
+Speaker: I'm sorry to hear that.  
+Speaker: I like the music of the 80s and 90s. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm Anna. What's your name?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm not sure. I think it's just a feeling I have.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm not sure. I think it's a new trend.  
+Speaker: I'm sorry to hear that.  
+Speaker: I have a daughter.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I love tacos!  Guacomole,salsa, lettuce, tomatoes,  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I like to dance as well. I love hip hop dancing especially. 
+Speaker: I like to play the piano. 
+Speaker: I'm sorry to hear that.  
+Speaker: I have a dog.  
+Speaker: I'm sorry to hear that.  I'm a terrible dancer too.  I think I'm the worst person to ask about dancing. 
+Speaker: I'm not a fan of kid pee either.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I like to play the piano.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm actually a surfer as well. Being a Florida native it's hard not to be.  I was actually out on my short board today. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I am not sure. I think I am going to go to the movies.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope everything works out for you.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm so sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I like the lead singer.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I am sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  Is there something I can help you with?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: That's so cool!  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I like to play the piano.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it. I love it.
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm reading a book about the history of the world.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm not sure if I can do that. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I have a dog and a cat.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+
+Speaker: I'm sorry to hear that.  I like the old stuff better.  
+Speaker: I'm sorry to hear that.  
+Speaker: I have my quiet time every morning - it is a great source of knowledge and comfort.  Do you know much about it's origin? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I like to cook big gourmet meals for my family. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you feel better soon.  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm not sure. I've never had one.  
+Speaker: I'm sorry to hear that.  Output: Negative
+Speaker: I love the Harry Potter series. 
+Speaker: I'm not sure if I should go to the party or not.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I like blue. 
+Speaker: I'm a teacher. 
+Speaker: I'm sorry to hear that.  I love tacos too.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I'm not a big fan of Mexican food, but I do love tacos.  I
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm a writer. I write books. 
+Speaker: Hi, I am Kevin. I am in college. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+ive been there a few times, it is very beautiful. 
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a reason you're not interested in the job?  
+Speaker: I'm so happy for them. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm a lifeguard.  
+Speaker: I'm from the UK.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm doing good. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+
+Speaker: I'm sorry to hear that.  
+A: I wish I could go on a vacation. Speaker: I'm so excited for the weekend!  I can't wait to see my friends.  I haven't seen them for a while.  How about you?  Do you have any plans? ?  
+Speaker: I'm not sure. I just feel like I should be doing something else. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I'm sorry that you're going through that.  I
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I like the "gangsta" style. 
+Speaker: I'm sorry to hear that. Output: Negative Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that. Output: Positive Response: Speaker: I'm sorry to hear that
+Speaker: I'm a little familiar with the Bible. Isn't it broken down into the Old Testament and the New Testament? 
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm not sure. I think it's a myth. 
+Speaker: I'm so excited for you! 
+Speaker: I like to play the piano.  
+Speaker: I'm a teacher. 
+Speaker: I'm sorry, I don't understand 
+Speaker: I'm in college.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm not sure. I think I'd like to try them on first. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  I love the outdoors, hiking, fishing, hunting, and anything else that gets me outside. 
+A: I don't know.
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you get better soon.  I'm going to go now.  I'm glad we spoke.  Take care.  Bye.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I have read a few of them. I like the poetry in the New Yorker. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I love the Beatles.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I know how you feel. I've been there. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm so happy for you. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+ive never tried it but i bet it would be fun. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm really ready for Fall weather.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I don't know.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry about your uncle.  
+Speaker: I'm going to the gym. I'll be back in an hour.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm doing well. How are you? 
+Speaker: I'm sorry to hear that. Output: No response
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm not sure if I can do that. I'm not sure if I can do that.  
+Speaker: I'm so happy to be independent.  
+Speaker: I'm not sure if I can do that. I'm not a very good swimmer. 
+Speaker: I'm sorry to hear that.  
+Speaker: I like tacos are the mexican food?  Output: Yes
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry about your mom.  
+Speaker: I have a dog.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I did watch it. I was rooting for Frankie Edgar. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I like music. I like listening to music and I also play the guitar.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm fine. I just got back from the doctor.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you can still make it to the party on Saturday.  I'll see you then.  Bye.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I think I'll go to the gym. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm a student. I'm a student. I'm a student. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I like action movies. 
+Speaker: I'm sorry about your mom. 
+Speaker: I'm not sure. I think I 'd rather have a burger. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: Hi friend, do you have any mailings awaiting you? 
+Speaker: I have a neighbor who sits outside all day and it's across from my backyard so I can't sit and relax and watch the birds. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Output: I hope you like it. 
+Speaker: I'm not sure. I think it's the one with the blue sky. 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm doing great. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I was in a yoga class last week when something happened...  Label: Yes  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm doing great. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm so proud of you. 
+Speaker: I'm so excited for the weekend!   
+Speaker: I'd like to go to the beach.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I'm sure you'll find one eventually.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm so excited for the weekend. 
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm in college.  
+Speaker: I have a dog and a cat.  What about you?  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm not sure. I think it's a good idea. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I haven't. I'm not sure I want to. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not feeling well. I think I'm coming down with a cold.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I like strawberries.  
+Speaker: I'm sorry to hear that.  
+Speaker: I agree.  It's a shame that it's so complicated.  I think that the government should make it easier for people to get divorced. 
+Speaker: I'm not a runner. I'm a swimmer. I've never seen a 100 meter dash race. 
+Speaker: I'm sorry to hear that. 
+Speaker: I have a lot of books. I like to read. 
+Speaker: I'm not sure. I think you should ask your boss. 
+Speaker: I'm sorry I'm late.  
+Speaker: I'm impressed with how far technology has come in the last 10 years!  
+Speaker: I'm so proud of you. 
+Speaker: I'm fine. How are you?  
+Speaker: I'm not sure. I think it's because it's a shoe that you wear on your feet. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm doing just fine, do you like watching movies?  
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm not sure. I think I'm more of a Catholic.  
+Speaker: I'm a teacher. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think I just have a knack for numbers. 
+Speaker: I have a dog.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+
+Speaker: I'm sorry to hear that.  
+Speaker: I'm a student. I'm looking for a part-time job. 
+Speaker: I work in a coffee shop and live in an shared apartment.  Output: Negative
+Speaker: Hi, I'm Frank. How are you doing today?  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I love to cook and I have a lot of recipes that I like to try. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure if I can do that. I'm not very good at it. Output: Negative
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm so excited for the weekend. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  I hope you get your refund.  I'm sure they will give you the refund.  I'm glad you're keeping them.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm going to the amusement park this weekend 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.   
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm a teacher. 
+Speaker: I have a car.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm so excited for you!  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I was a band kid actually. But I knew the football team very well. It was a very small town. What position did you play? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm so excited for the new Avengers movie!  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand.  Is there someone I can help you find?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I love to go to the movies.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure. I think it's pretty cool. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I know how you feel. I am an immigrant too. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I think it was in the late 1800s. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm so happy to be back in school. I've missed it so much. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm good. hanging out with the hubby and son. you? 
+Speaker: I'm sorry to hear that. 
+Speaker: I'm so happy for you. 
+Speaker: I have heard of the grand rapids, but I did not know they were in Michigan, is it free to go there?  
+Speaker: I'm sorry I'm late. I got held up at work. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I think I'll go to the gym. 
+Speaker: I'm so happy for you!  I know it was hard to find a job these days. 
+Speaker: I would like to travel to the United States.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand.  Is there a reason you're not interested in the job?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I think I'm going to go to the library and do some research.  
+Speaker: I'm not sure I like the idea of getting a tattoo.  
+Speaker: I'm all done with school. have a ba. you?  
+Speaker: I got an unfamiliar present in the mail addressed to me but I had no idea who sent it!  Label: Unknown
+Speaker: I'm a couch louse.  
+Speaker: I'm sorry to hear that.  
+Speaker: I love to read too.  I read a lot of books.  I'm reading a book right now.  What are you reading? 
+Speaker: I'm sorry, I don't understand. Could you say it again?  
+Speaker: I'm sorry to hear that.  
+Speaker: I love to go to the movies.  
+Speaker: I'm doing well. I'm just hanging out with my friends. Output: Negative Response: Speaker: I'm doing great, how are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there anything I can do to help?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I'm sure you'll find someone who is more compatible with you.  I'm not sure what you mean by "bond".  
+Speaker: I'm doing great. How are you? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm so excited for you!  
+Speaker: I love lasagna!  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that. Output: No response
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there someone I can help you find?  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  I think you would make a great lawyer. 
+Speaker: I love cheese! I'm a huge fan of camembert and brie. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry, I don't understand.  
+Speaker: I love steak.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a reason you want to find out who I am?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that. Output: No 
+Speaker: I'm sorry to hear that.  I've been trying to learn to knit, but I can't get the hang of it.  I guess I'm just not a "crafty" person.  I wish you the best of luck with your project.  Knitting is hard! 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry about that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm not sure if I can do that. I'm not sure if I can do that.  
+Speaker: I'm sorry to hear that. 
+Speaker: I love reading too. I read a lot of books. 
+Speaker: I'm sorry to hear that.  I hope you feel better soon.  
+Speaker: I'm a lawyer.  
+Speaker: I'm sorry, I don't. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope she feels better soon.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm doing great. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm so happy for you!  I know you will do great!Output: Speaker: I'm so happy for you!  I know you will do great!
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm 18 years old. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm really looking forward to eating dinner later.  Output: Yes. 
+Speaker: I'm sorry I'm late. I had to stop for gas. 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I like to play the piano.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I'm sorry to hear that.  I hope you feel better.  
+Speaker: I love visiting national parks, do you paint landscapes?  
+Speaker: I love classic cars. Is Chervolet your favorite type of vehicle?  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm not sure. I think it was last week. 
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  I've been dating a lot, but everyone seems to want commitment. What do I need to do to get better?A: I'm sorry to hear that.  I've been dating a lot, but everyone seems to want commitment. What do I need to do to get better?
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  
+Speaker: I lost my dog, I feel so bad.  Output: Yes 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I love the country.  I'm a huge fan of the Dixie Chicks.  I can't wait to see them in concert again.  I haven't seen them since 2006.  I'm going to see them in June.  I'm so excited.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm going to see them in June.  I'm
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand.  Is there a problem?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm doing great. How are you?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly? 
+Speaker: I'm not sure. I just want to go somewhere warm. 
+Speaker: I'm a dog trainer. I could use a little yoga in my life. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Could you say it again? 
+Speaker: I like thin crust pizza.  
+Speaker: I'm sorry to hear that. Output: Negative
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry, I don't understand. Would you mind speaking more slowly?  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I think you should talk to him about it.  
+Speaker: I'm sorry to hear that. 
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  
+Speaker: I'm sorry to hear that.  I hope you're feeling better.  
+A: Yes, it is.
